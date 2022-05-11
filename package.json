@@ -5,6 +5,7 @@
   "author": "Amar Suhail <amar.suhail@gmail.com>",
   "maintainers": ["Ilya Shaisultanov <ilya.shaisultanov@gmail.com>"],
   "main": "./lib/prettystream.js",
+  "license": "MIT",
 
   "repository": {
     "type": "git",
